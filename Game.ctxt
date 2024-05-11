@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=thePrice\ theIsAvailable\ theName\ theCode\ theType\ theRating
+comment1.target=Game(double,\ boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ getIsAvailable()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=theIsAv
+comment5.target=void\ setIsAvailable(boolean)
+comment6.params=thePrice
+comment6.target=void\ setPrice(double)
+numComments=7

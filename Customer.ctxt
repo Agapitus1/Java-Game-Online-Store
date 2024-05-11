@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=theName\ theAddress\ theEmail\ theDateOfBirth\ theCredit\ theMyGame
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=Accessor\r\n
+comment3.params=
+comment3.target=double\ getCredit()
+comment4.params=theEmail
+comment4.target=void\ setEmail(java.lang.String)
+comment5.params=theGame\ discount
+comment5.target=void\ purchase(Game,\ double)
+numComments=6
